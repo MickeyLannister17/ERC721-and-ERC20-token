@@ -2,7 +2,7 @@
 
 ## Herein lies the details of my Task 3, which consists of my ERC20 and ERC721 verified contract address links and, also the links to the minted NFTs.
 
-ERC20: 
+ERC20: https://mumbai.polygonscan.com/address/0x773833d1853360723189b77e24bf67fc802555bb#code
 
 ERC721: https://mumbai.polygonscan.com/address/0x2194adaf3b27df96751a829b2c04f9f56e13e478#code
 
