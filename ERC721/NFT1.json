@@ -1,0 +1,24 @@
+{
+    "name": "Storm Breaker",
+    "description": "The ultimate weapon of chaos and destruction",
+    "image": "https://ipfs.io/ipfs/QmSg3UgcJ5uDQNhrNoEvkwdXh5u2pEWX1ftQYxULFuMKpN",
+    "properties": [
+      {
+        "trait_type": "destruction level",
+        "value": "100"
+        },
+        {
+          "trait_type": "speed",
+          "value": "95"
+        },
+        {
+          "trait_type": "power",
+          "value": "100"
+        },
+        {
+          "trait_type": "material",
+          "value": "heart of a dying star"
+        }
+        
+      ]
+  }

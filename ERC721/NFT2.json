@@ -1,0 +1,24 @@
+{
+    "name": "Chitauri Scepter",
+    "description": "The weapon of the mischievious Loki",
+    "image": "https://ipfs.io/ipfs/QmWAEdUzzFbPBM8ZX6RJgJudPu4zUEXAKYHUf18xTapKaK",
+    "properties": [
+      {
+        "trait_type": "destruction level",
+        "value": "87"
+        },
+        {
+          "trait_type": "speed",
+          "value": "90"
+        },
+        {
+          "trait_type": "power",
+          "value": "90"
+        },
+        {
+          "trait_type": "material",
+          "value": "Mind stone tesaract"
+        }
+        
+      ]
+  }
